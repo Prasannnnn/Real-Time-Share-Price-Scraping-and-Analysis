@@ -36,6 +36,7 @@ You can install the required libraries using the following command:
 
 ```bash
 pip install streamlit requests beautifulsoup4 pandas
+```
 
 Example Use
 Enter a stock symbol (e.g., TCS) in the input field.
